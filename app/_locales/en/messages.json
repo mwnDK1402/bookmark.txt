@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "bookmark.txt",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Saves pages to a text file.",
+    "description": "The description of the application"
+  }
+}
